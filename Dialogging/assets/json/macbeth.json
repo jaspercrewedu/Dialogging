@@ -1,0 +1,37 @@
+[
+	[
+		{
+			"speaker" : "macbeth",
+			"dialog" : "You know your own degrees; sit down: at first And last the hearty welcome.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "lords",
+			"dialog" : "Thanks to your majesty.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "macbeth",
+			"dialog" : "Ourself will mingle with society, And play the humble host.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "macbeth",
+			"dialog" : "Our hostess keeps her state, but in best time We will require her welcome."
+		},
+		{	
+			"speaker" : "lady_macbeth",
+			"dialog" : "Pronounce it for me, sir, to all our friends; For my heart speaks they are welcome.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "macbeth",
+			"dialog" : "See, they encounter thee with their hearts' thanks. Both sides are even: here I'll sit i' the midst:",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "macbeth",
+			"dialog" : "Be large in mirth; anon we'll drink a measure The table round."
+		}
+	]
+]
